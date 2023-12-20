@@ -41,7 +41,9 @@ make
 
 auto generate voronoi_visualizer.moc and moc_predefs.h
 
+chmod +x *project_name*
 
+./*project_name*
 
 
 
