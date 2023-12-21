@@ -46,6 +46,9 @@ chmod +x *project_name*
 ./*project_name*
 
 
+## 4.Debug
+create launch.json
+
 
 
 
